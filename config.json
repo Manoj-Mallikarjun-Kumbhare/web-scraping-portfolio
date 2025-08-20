@@ -1,0 +1,7 @@
+{
+  "keywords": ["laptop", "iphone", "headphones"],
+  "max_price": 500,
+  "location": "US",
+  "send_email_alert": true,
+  "email_receiver": "manojkumbhare189@gmail.com"
+}
